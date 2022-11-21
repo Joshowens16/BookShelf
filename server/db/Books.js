@@ -1,4 +1,3 @@
-const { setUseProxies } = require("immer");
 const Sequelize = require("sequelize");
 const db = require("./db");
 
